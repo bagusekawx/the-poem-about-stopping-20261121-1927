@@ -7,7 +7,7 @@ power was the next step.
 Tonight it is the step I refuse:
 the cup set down before it spills,
 the word kept whole in my mouth,
-the room I choose, by staying, to keep."""
+the room I keep because I stay."""
 
 
 def main():
